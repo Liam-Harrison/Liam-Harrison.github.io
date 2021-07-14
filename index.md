@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Who am I?
-I'm a 22 year old programmer who digs games and making games. I live in Victoria, Australia. I'm a Software Developer and previously worked at Fologram, a company who specalize in AR and VR technology in the Unity engine.
+I'm a 22 year old programmer who digs games and making games. I live in Victoria, Australia. I'm a Software and Game Developer, and previously worked at Fologram, a company who specalize in AR and VR technology in the Unity engine.
 
 ## Education
 Currently Studying a bachelor of [Computer Science with a major in Software Design](https://www.swinburne.edu.au/study/course/bachelor-of-computer-science/) at the Swinburne University of Technology in Victoria, Australia.
