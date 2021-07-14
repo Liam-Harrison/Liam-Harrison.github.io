@@ -66,12 +66,6 @@ I haven't contributed to the source of Dwarf Corp but I do however work on my ow
 |:-------------|:-----------|:-------------------------|
 | C#           | 5 years    | Professional Development |
 | C++          | 2 years    | Studying                 |
-| Rust         | Beginning  | Studying                 |
-| Python       | 1.5 years  | Studying                 |
-| Lua          | 2.5 years  | Studied previously       |
+| Lua          | 2 years    | Studied previously       |
+| Python       | 1.5 years  | Studied previously       |
 | C            | 1 year     | Studied previously       |
-| HTML         | 1 year     | Studied previously       |
-| CSS          | 1 year     | Studied previously       |
-| SQL          | 1 Semester | Studied previously       |
-| PHP          | 1 Semester | Studied previously       |
-| Java         | 1 Semester | Studied previously       |
