@@ -29,7 +29,7 @@ This was a small project I did for my first year in University, almost every par
 
 # Other projects I've contributed too:
 
-### [Roark's Attack on Titan Fan Game](https://gamejolt.com/games/roark-s-attack-on-titan-fan-game/201628)
+### [Roark's Attack on Titan Fan Game](https://gamejolt.com/games/raot/613147)
 I contributed to this project for some time - we post Youtube updates frequently which show off the latest version of the game and its graphics. I did allot of work on character controls and lead a successful total multiplayer networking rework - I also designed a [wall-running system from scratch](https://www.youtube.com/watch?v=KTR8pS9h9Bw) (very old version of the game) inspired from Sony's Spiderman game (2018). I have continually contributed to the project in my spare time and coordinated with contributors around the world in an agile fashion to create an extremely highly polished, fast-paced, multiplayer PvP game.
 
 ### [SpessVR](https://store.steampowered.com/app/898200/Spess/)
