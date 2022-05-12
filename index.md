@@ -3,12 +3,10 @@ layout: default
 ---
 
 ## Who am I?
-I'm a 23 year old programmer who digs games and making games. I live in Victoria, Australia. I'm a Software and Game Developer, and previously worked at Fologram, a company who specalize in AR and VR technology in the Unity engine.
+I'm a 23 year old programmer who loves games and making games. I live in Victoria, Australia. I'm a Software and Game Developer, and previously worked at Fologram, a company who specalize in AR and VR technology in the Unity engine.
 
 ## Education
-Finishing a bachelor of [Computer Science with a major in Software Design](https://www.swinburne.edu.au/study/course/bachelor-of-computer-science/) at the Swinburne University of Technology in Victoria, Australia.
-
-Completed secondary school at [Bendigo Senior Secondary College](http://www.bssc.edu.au/) and recieved a [Victorian VCE certificate](https://en.wikipedia.org/wiki/Victorian_Certificate_of_Education) - Where I studied biology, mathematics, english, software development and electronic engineering.
+Bachelor of [Computer Science with a major in Software Design](https://www.swinburne.edu.au/study/course/bachelor-of-computer-science/) at the Swinburne University of Technology in Victoria, Australia.
 
 ## Experience
 I previously was employed at Fologram as a Software Developer, primarily I maintained and developed the Unity project of Folograms proprietary software. My role included all aspects of development such as leading the development of the Oculus Quest platform, extending and updating the CAD integration plugins, writing unit tests and creating original enterprise level code.
@@ -23,6 +21,9 @@ This was a year long project I worked on at University, I was the lead-programme
 
 ### [QuestLike](./zorkish.html)
 This game was based on Zork & Dwarf Fortress, built in C# and with very deep and tightly coupled game systems. QuestLike is a demonstration of ability to write deep & intelligent gamesystems, combining well designed data structures and systems to allow the player to do just about anything.
+
+### [Energy Simulation](./energy.html)
+This is a small 2D, interactable recreation of a common energy simulation system used in popular sandbox games such as Oxygen Not Included.
 
 ### [Battle RPG Demo](./iso-rpg.html)
 The Battle RPG was a small game I made to showcase my AI, Navigation mesh and system design skills.
@@ -44,9 +45,9 @@ I contributed to the XWVM project for a short amount of time, I am still connect
 - Can quickly learn complex codebases and APIs
 - Database design skills
 - Game development orientated experience:
-  - 3 years Unity experience
+  - 3 years of Unity experience
   - Multiplayer Networking
-  - Gameplay loops
+  - Gameplay programming
   - Entity Component Systems
   - Concurrent Programming experience
   - Vector and Quaternion math skills
@@ -54,4 +55,4 @@ I contributed to the XWVM project for a short amount of time, I am still connect
   - AI, Job Systems, and Task Assignment
   - Game Systems Design
   - Pathfinding and Navigation
-  - New Unity feature experience (i.e. Input System, ECS)
+  - New Unity features experience (i.e. Input System, ECS)
