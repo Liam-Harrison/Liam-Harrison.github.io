@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Who am I?
-I'm a 24 year old programmer who loves games and making games. I live in Victoria, Australia. I'm currently a Game Developer for Ludeon Studios and have previously worked as a full stack web-dev and at a software startup called Fologram, a company who specalize in AR and VR technology in the Unity engine.
+I'm a 24 year old programmer who loves games and making games. I'm currently a Game Developer for Ludeon Studios and have previously worked as a full stack web-dev and at a software startup called Fologram, a company who specalize in AR and VR technology in the Unity engine.
 
 ## Education
 Bachelor of [Computer Science with a major in Software Design](https://www.swinburne.edu.au/study/course/bachelor-of-computer-science/) at the Swinburne University of Technology in Victoria, Australia.
