@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Who am I?
-I'm a 23 year old programmer who loves games and making games. I live in Victoria, Australia. I'm a Software and Game Developer, and previously worked at Fologram, a company who specalize in AR and VR technology in the Unity engine.
+I'm a 24 year old programmer who loves games and making games. I live in Victoria, Australia. I'm currently a Game Developer for Ludeon Studios and have previously worked as a full stack web-dev and at a software startup called Fologram, a company who specalize in AR and VR technology in the Unity engine.
 
 ## Education
 Bachelor of [Computer Science with a major in Software Design](https://www.swinburne.edu.au/study/course/bachelor-of-computer-science/) at the Swinburne University of Technology in Victoria, Australia.
@@ -33,9 +33,6 @@ The Battle RPG was a small game I made to showcase my AI, Navigation mesh and sy
 ### [Roark's Attack on Titan Fan Game](https://gamejolt.com/games/raot/613147)
 I contributed to this project for some time - we post Youtube updates frequently which show off the latest version of the game and its graphics. I did allot of work on character controls and lead a successful total multiplayer networking rework. I have continually contributed to the project in my spare time and coordinated with contributors around the world in an agile fashion to create an extremely highly polished, fast-paced, multiplayer PvP game.
 
-### [SpessVR](https://store.steampowered.com/app/898200/Spess/)
-I helped Powerworks Games develop the groundwork of Spess, a new company which was created specifically for the production of the game. I primarily did systems design, multiplayer networking and the desktop component of the game - this mainly included quickly prototyping systems for the company such as this [contextual interaction system (see 2:00 - 2:30)](https://youtu.be/1TC-ozF7dWI?t=118) and the [Level Editor](https://www.youtube.com/watch?v=1TC-ozF7dWI). However I only helped Powerworks Games begin development of Spess, and haven't contributed since.
-
 ### [X-Wing Virtual Machine](https://www.moddb.com/mods/xwvm)
 I contributed to the XWVM project for a short amount of time, I am still connected to the project but haven't contributed in some time. I primarily did bug-fixing to support the current developers and make the game as close to the originals as possible.
 
@@ -43,9 +40,8 @@ I contributed to the XWVM project for a short amount of time, I am still connect
 
 - Experience with source control on multiple platforms
 - Can quickly learn complex codebases and APIs
-- Database design skills
 - Game development orientated experience:
-  - 3 years of Unity experience
+  - 4 years of Unity experience
   - Multiplayer Networking
   - Gameplay programming
   - Entity Component Systems
