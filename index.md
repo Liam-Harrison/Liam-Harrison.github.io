@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Who am I?
-I'm a 24 year old programmer who loves games and making games. I'm currently a Game Developer for Ludeon Studios and have previously worked as a full stack web-dev and at a software startup called Fologram, a company who specalize in AR and VR technology in the Unity engine.
+I’m a 26 year old indie game developer who loves playing and making games. I’m currently a Game Developer at Ludeon Studios developing RimWorld, I was previously a full stack web-dev and worked at a software startup.
 
 ## Education
 Bachelor of [Computer Science with a major in Software Design](https://www.swinburne.edu.au/study/course/bachelor-of-computer-science/) at the Swinburne University of Technology in Victoria, Australia.
@@ -41,7 +41,7 @@ I contributed to the XWVM project for a short amount of time, I am still connect
 - Experience with source control on multiple platforms
 - Can quickly learn complex codebases and APIs
 - Game development orientated experience:
-  - 4 years of Unity experience
+  - 6 years of Unity experience
   - Multiplayer Networking
   - Gameplay programming
   - Entity Component Systems
