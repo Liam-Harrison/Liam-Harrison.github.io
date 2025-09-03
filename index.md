@@ -43,6 +43,11 @@ I was involved in the tailend of Biotechs development, helping with bugfixing an
 - Assisted developers and designers in a supportive capacity, fixing bugs and corrdinating with playtesters to ensure QA.
 - Playtesting and providing feedback just before release.
 
+### [Fologram](https://fologram.com/)
+I was the primary programmer, and lead developer for the entire Unity application which was deployed onto Meta Quest, Hololens 1 & 2, iOS, and Android.
+- Designed and developed the Unity solution portion of Folograms proprietary software to visualize and sync CAD documents.
+- Developed one project which was ran and could be deployed to all target platforms via build pipelines.
+
 # Personal Projects
 These are some of my personal projects, for these projects I have created webpages for each individual one - each going into allot more detail about the project and showing videos and screenshots.
 
