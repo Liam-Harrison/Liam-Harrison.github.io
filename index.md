@@ -58,7 +58,7 @@ This is a small 2D, interactable recreation of a common energy simulation system
 ### [Battle RPG Demo](./iso-rpg.html)
 The Battle RPG was a small game I made to showcase my AI, Navigation mesh and system design skills.
 
-# Other projects I've contributed too:
+# Other Projects
 
 ### [Roark's Attack on Titan Fan Game](https://gamejolt.com/games/raot/613147)
 This project was completed some years ago, I did allot of work on character controls and lead a successful total multiplayer networking rework. I coordinated with contributors around the world in an agile fashion to create an extremely highly polished, fast-paced, multiplayer PvP game. The main challenge was producing a fun and fair enviroment in a fast paced PvP context with peer to peer networking while gracefully handling significant amounts of latency.
